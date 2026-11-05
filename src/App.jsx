@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:5000/api/notes";
+const API_URL = "https://mern-notes-backend-p8up.onrender.com/api/notes";
 
 const noteColors = ["yellow", "blue", "pink", "green"];
 
